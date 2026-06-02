@@ -72,10 +72,3 @@ streamlit run main.py
 - Centralizes attendance records
 - Simplifies subject and student management
 
-## 🔮 Future Enhancements
-
-- QR Code Attendance
-- Attendance Analytics Dashboard
-- Email Notifications
-- Excel/PDF Report Export
-- Mobile Application Support
